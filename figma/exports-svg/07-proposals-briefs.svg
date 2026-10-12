@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3504" height="1056" viewBox="0 0 3504 1056">
+  <g>
+    <rect width="816" height="1056" fill="#F7F6F2"/>
+    <g transform="translate(64, 64)">
+      <g transform="translate(0, 8)">
+        <path d="M7.41 0.34L10.22 8.31L13.3 4.28L11.35 8.97L19.66 7.41L11.69 10.22L15.72 13.3L11.03 11.35L12.59 19.66L9.78 11.69L6.7 15.72L8.65 11.03L0.34 12.59L8.31 9.78L4.28 6.7L8.97 8.65L7.41 0.34Z" fill="#E5392F"/>
+      </g>
+      <g transform="translate(22, 0)">
+        <text x="0" y="26" font-family="Manrope" font-size="26" font-weight="500" fill="#1C2452" letter-spacing="-0.9">sparkify</text>
+      </g>
+    </g>
+    <g transform="translate(64, 410)">
+      <path d="M14.82 0.68L20.44 16.63L26.6 8.57L22.7 17.93L39.32 14.82L23.37 20.44L31.43 26.6L22.07 22.7L25.18 39.32L19.56 23.37L13.4 31.43L17.3 22.07L0.68 25.18L16.63 19.56L8.57 13.4L17.93 17.3L14.82 0.68Z" fill="#E5392F"/>
+      <g transform="translate(0, 60)">
+        <text x="0" y="13" font-family="Geist" font-size="13" font-weight="600" fill="#3B4A8F" letter-spacing="2">PROPOSAL</text>
+      </g>
+      <g transform="translate(0, 97)">
+        <text x="0" y="52" font-family="Geist" font-size="52" font-weight="500" fill="#1C2452" letter-spacing="-1.8">[What we will do together, as an outcome]</text>
+      </g>
+      <g transform="translate(0, 233)">
+        <text x="0" y="17" font-family="Geist" font-size="17" fill="#4A5378">Prepared for [Name], [Title], [Company]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 975)">
+      <g>
+        <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Christophe Jammet · Sparkify Corp</text>
+      </g>
+      <g transform="translate(608, 0)">
+        <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">[Month Year]</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(896, 0)">
+    <rect width="816" height="1056" fill="#FFFFFF"/>
+    <g transform="translate(64, 64)">
+      <g>
+        <g transform="translate(0, 5)">
+          <path d="M4.45 0.2L6.13 4.99L7.98 2.57L6.81 5.38L11.8 4.45L7.01 6.13L9.43 7.98L6.62 6.81L7.55 11.8L5.87 7.01L4.02 9.43L5.19 6.62L0.2 7.55L4.99 5.87L2.57 4.02L5.38 5.19L4.45 0.2Z" fill="#E5392F"/>
+        </g>
+        <g transform="translate(14, 0)">
+          <text x="0" y="16" font-family="Manrope" font-size="16" font-weight="500" fill="#1C2452" letter-spacing="-0.6">sparkify</text>
+        </g>
+      </g>
+      <g transform="translate(612, 4)">
+        <text x="0" y="11" font-family="Geist" font-size="11" fill="#4A5378">[Proposal title]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 110)">
+      <rect width="688" height="1" fill="#D9DDEA"/>
+    </g>
+    <g transform="translate(64, 135)">
+      <g>
+        <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#E5392F" letter-spacing="2">02 · APPROACH</text>
+      </g>
+      <g transform="translate(0, 26)">
+        <text x="0" y="30" font-family="Geist" font-size="30" font-weight="500" fill="#1C2452" letter-spacing="-0.9">Assess, ideate, execute, scale.</text>
+      </g>
+      <g transform="translate(0, 75)">
+        <text x="0" y="14" font-family="Geist" font-size="14" fill="#4A5378">[One paragraph on how the engagement runs and why this sequence fits the client.]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 256)">
+      <g transform="translate(0, 16)">
+        <rect width="36" height="36" rx="999" ry="999" fill="#1C2452"/>
+        <g transform="translate(15, 9.5)">
+          <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#F7F6F2">1</text>
+        </g>
+      </g>
+      <g transform="translate(56, 16)">
+        <g>
+          <text x="0" y="20" font-family="Geist" font-size="20" font-weight="500" fill="#1C2452" letter-spacing="-0.4">Assess</text>
+        </g>
+        <g transform="translate(0, 32)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">[Listen first: audiences, teams, tools.]</text>
+        </g>
+      </g>
+      <g transform="translate(376, 16)">
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">DELIVERABLES</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#1C2452">[Audit, interviews, readout]</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 364)">
+      <g transform="translate(0, 16)">
+        <rect width="36" height="36" rx="999" ry="999" fill="#1C2452"/>
+        <g transform="translate(13.5, 9.5)">
+          <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#F7F6F2">2</text>
+        </g>
+      </g>
+      <g transform="translate(56, 16)">
+        <g>
+          <text x="0" y="20" font-family="Geist" font-size="20" font-weight="500" fill="#1C2452" letter-spacing="-0.4">Ideate</text>
+        </g>
+        <g transform="translate(0, 32)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">[Shape options and pick the one worth building.]</text>
+        </g>
+      </g>
+      <g transform="translate(376, 16)">
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">DELIVERABLES</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#1C2452">[Strategy, concepts, roadmap]</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 472)">
+      <g transform="translate(0, 16)">
+        <rect width="36" height="36" rx="999" ry="999" fill="#1C2452"/>
+        <g transform="translate(13.5, 9.5)">
+          <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#F7F6F2">3</text>
+        </g>
+      </g>
+      <g transform="translate(56, 16)">
+        <g>
+          <text x="0" y="20" font-family="Geist" font-size="20" font-weight="500" fill="#1C2452" letter-spacing="-0.4">Execute</text>
+        </g>
+        <g transform="translate(0, 32)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">[Build, launch and measure in short cycles.]</text>
+        </g>
+      </g>
+      <g transform="translate(376, 16)">
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">DELIVERABLES</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#1C2452">[Content, campaigns, tools]</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 580)">
+      <g transform="translate(0, 16)">
+        <rect width="36" height="36" rx="999" ry="999" fill="#1C2452"/>
+        <g transform="translate(13, 9.5)">
+          <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#F7F6F2">4</text>
+        </g>
+      </g>
+      <g transform="translate(56, 16)">
+        <g>
+          <text x="0" y="20" font-family="Geist" font-size="20" font-weight="500" fill="#1C2452" letter-spacing="-0.4">Scale</text>
+        </g>
+        <g transform="translate(0, 32)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">[Hand over systems the team can run.]</text>
+        </g>
+      </g>
+      <g transform="translate(376, 16)">
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">DELIVERABLES</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="13" font-family="Geist" font-size="13" fill="#1C2452">[Playbooks, training, dashboards]</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 688)"/>
+    <g transform="translate(64, 954)">
+      <rect width="688" height="1" fill="#D9DDEA"/>
+    </g>
+    <g transform="translate(64, 979)">
+      <g>
+        <text x="0" y="10" font-family="Geist" font-size="10" fill="#4A5378">Sparkify Corp · Confidential</text>
+      </g>
+      <g transform="translate(668, 0)">
+        <text x="0" y="10" font-family="Geist Mono" font-size="10" fill="#4A5378">[00]</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(1792, 0)">
+    <rect width="816" height="1056" fill="#FFFFFF"/>
+    <g transform="translate(64, 64)">
+      <g>
+        <g transform="translate(0, 5)">
+          <path d="M4.45 0.2L6.13 4.99L7.98 2.57L6.81 5.38L11.8 4.45L7.01 6.13L9.43 7.98L6.62 6.81L7.55 11.8L5.87 7.01L4.02 9.43L5.19 6.62L0.2 7.55L4.99 5.87L2.57 4.02L5.38 5.19L4.45 0.2Z" fill="#E5392F"/>
+        </g>
+        <g transform="translate(14, 0)">
+          <text x="0" y="16" font-family="Manrope" font-size="16" font-weight="500" fill="#1C2452" letter-spacing="-0.6">sparkify</text>
+        </g>
+      </g>
+      <g transform="translate(612, 4)">
+        <text x="0" y="11" font-family="Geist" font-size="11" fill="#4A5378">[Proposal title]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 110)">
+      <rect width="688" height="1" fill="#D9DDEA"/>
+    </g>
+    <g transform="translate(64, 135)">
+      <g>
+        <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#E5392F" letter-spacing="2">04 · INVESTMENT</text>
+      </g>
+      <g transform="translate(0, 26)">
+        <text x="0" y="30" font-family="Geist" font-size="30" font-weight="500" fill="#1C2452" letter-spacing="-0.9">Scope, timing and fees.</text>
+      </g>
+    </g>
+    <g transform="translate(64, 224)">
+      <g>
+        <rect width="688" height="1" fill="#D9DDEA"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 12)">
+            <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">PHASE</text>
+          </g>
+          <g transform="translate(376, 12)">
+            <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">TIMING</text>
+          </g>
+          <g transform="translate(532, 12)">
+            <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">FEE</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 38)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">Assess</text>
+          </g>
+          <g transform="translate(376, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[0 weeks]</text>
+          </g>
+          <g transform="translate(532, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[$00,000]</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 81)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">Ideate</text>
+          </g>
+          <g transform="translate(376, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[0 weeks]</text>
+          </g>
+          <g transform="translate(532, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[$00,000]</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 124)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">Execute</text>
+          </g>
+          <g transform="translate(376, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[0 weeks]</text>
+          </g>
+          <g transform="translate(532, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[$00,000]</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 167)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">Scale</text>
+          </g>
+          <g transform="translate(376, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[0 weeks]</text>
+          </g>
+          <g transform="translate(532, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[$00,000]</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(0, 210)">
+        <rect width="688" height="1" fill="#1C2452"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#1C2452">Total</text>
+          </g>
+          <g transform="translate(376, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#1C2452">[00 weeks]</text>
+          </g>
+          <g transform="translate(532, 12)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="600" fill="#1C2452">[$000,000]</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 501)">
+      <rect width="688" height="81" rx="12" ry="12" fill="#F7F6F2"/>
+      <g transform="translate(20, 20)">
+        <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">TERMS</text>
+      </g>
+      <g transform="translate(20, 41)">
+        <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">[Payment schedule, what is out of scope, assumptions, and how changes are handled.]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 606)"/>
+    <g transform="translate(64, 954)">
+      <rect width="688" height="1" fill="#D9DDEA"/>
+    </g>
+    <g transform="translate(64, 979)">
+      <g>
+        <text x="0" y="10" font-family="Geist" font-size="10" fill="#4A5378">Sparkify Corp · Confidential</text>
+      </g>
+      <g transform="translate(668, 0)">
+        <text x="0" y="10" font-family="Geist Mono" font-size="10" fill="#4A5378">[00]</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(2688, 0)">
+    <rect width="816" height="1056" fill="#FFFFFF"/>
+    <g transform="translate(64, 64)">
+      <g>
+        <g transform="translate(0, 5)">
+          <path d="M4.45 0.2L6.13 4.99L7.98 2.57L6.81 5.38L11.8 4.45L7.01 6.13L9.43 7.98L6.62 6.81L7.55 11.8L5.87 7.01L4.02 9.43L5.19 6.62L0.2 7.55L4.99 5.87L2.57 4.02L5.38 5.19L4.45 0.2Z" fill="#E5392F"/>
+        </g>
+        <g transform="translate(14, 0)">
+          <text x="0" y="16" font-family="Manrope" font-size="16" font-weight="500" fill="#1C2452" letter-spacing="-0.6">sparkify</text>
+        </g>
+      </g>
+      <g transform="translate(578, 4)">
+        <text x="0" y="11" font-family="Geist" font-size="11" fill="#4A5378">Creative brief · v[0.0]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 110)">
+      <rect width="688" height="1" fill="#D9DDEA"/>
+    </g>
+    <g transform="translate(64, 135)">
+      <g>
+        <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#E5392F" letter-spacing="2">BRIEF</text>
+      </g>
+      <g transform="translate(0, 24)">
+        <text x="0" y="34" font-family="Geist" font-size="34" font-weight="500" fill="#1C2452" letter-spacing="-1.1">[Project name]</text>
+      </g>
+    </g>
+    <g transform="translate(64, 227)">
+      <g>
+        <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">OBJECTIVE</text>
+      </g>
+      <g transform="translate(0, 19)">
+        <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[The single outcome this work must achieve.]</text>
+      </g>
+      <g transform="translate(0, 47)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+      </g>
+    </g>
+    <g transform="translate(64, 313)">
+      <g>
+        <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">AUDIENCE</text>
+      </g>
+      <g transform="translate(0, 19)">
+        <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[Who, what they believe now, what we want them to believe.]</text>
+      </g>
+      <g transform="translate(0, 47)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+      </g>
+    </g>
+    <g transform="translate(64, 399)">
+      <g>
+        <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">KEY MESSAGE</text>
+      </g>
+      <g transform="translate(0, 19)">
+        <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[One sentence in the client’s voice.]</text>
+      </g>
+      <g transform="translate(0, 47)">
+        <rect width="688" height="1" fill="#D9DDEA"/>
+      </g>
+    </g>
+    <g transform="translate(64, 485)">
+      <g>
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">DELIVERABLES</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[Formats, versions, sizes]</text>
+        </g>
+        <g transform="translate(0, 47)">
+          <rect width="332" height="1" fill="#D9DDEA"/>
+        </g>
+      </g>
+      <g transform="translate(356, 0)">
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">TIMELINE</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[Key dates and review points]</text>
+        </g>
+        <g transform="translate(0, 47)">
+          <rect width="332" height="1" fill="#D9DDEA"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 571)">
+      <g>
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">SUCCESS MEASURES</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[How we will know it worked]</text>
+        </g>
+        <g transform="translate(0, 47)">
+          <rect width="332" height="1" fill="#D9DDEA"/>
+        </g>
+      </g>
+      <g transform="translate(356, 0)">
+        <g>
+          <text x="0" y="10" font-family="Geist" font-size="10" font-weight="600" fill="#3B4A8F" letter-spacing="1.5">OWNER · APPROVER</text>
+        </g>
+        <g transform="translate(0, 19)">
+          <text x="0" y="14" font-family="Geist" font-size="14" fill="#1C2452">[Names]</text>
+        </g>
+        <g transform="translate(0, 46)">
+          <rect width="332" height="1" fill="#D9DDEA"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(64, 657)"/>
+    <g transform="translate(64, 954)">
+      <rect width="688" height="1" fill="#D9DDEA"/>
+    </g>
+    <g transform="translate(64, 979)">
+      <g>
+        <text x="0" y="10" font-family="Geist" font-size="10" fill="#4A5378">Sparkify Corp · Confidential</text>
+      </g>
+      <g transform="translate(668, 0)">
+        <text x="0" y="10" font-family="Geist Mono" font-size="10" fill="#4A5378">[00]</text>
+      </g>
+    </g>
+  </g>
+</svg>

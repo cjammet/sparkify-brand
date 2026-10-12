@@ -1,0 +1,24 @@
+<!-- @dsCard group="Site" height=300 -->
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>OfferCard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+html,body{margin:0}
+body{background:var(--surface);color:var(--ink);font-family:var(--font-sans);-webkit-font-smoothing:antialiased;padding:var(--space-6)}
+*{box-sizing:border-box}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--space-4)}
+.card{background:var(--surface-raised);border-radius:var(--radius-lg);box-shadow:var(--hairline);padding:var(--space-7);display:flex;flex-direction:column;gap:var(--space-3)}
+.card h3{margin:0;font:500 22px/28px var(--font-sans);letter-spacing:-.015em}
+.card p{margin:0;font-size:15px;line-height:1.5;color:var(--ink-muted)}
+.more{margin-top:auto;padding-top:var(--space-3);font-size:14px;font-weight:500;color:var(--accent)}
+
+</style></head><body>
+<div class="grid">
+<div class="card"><span class="eyebrow">01</span><h3>Eminence systems</h3><p>A repeatable way for your best thinking to leave the building every week, in your voice.</p><span class="more">How it works &rarr;</span></div>
+<div class="card"><span class="eyebrow">02</span><h3>Human-centered AI enablement</h3><p>Practices and tools that help your team adopt AI while keeping their craft and their judgment.</p><span class="more">How it works &rarr;</span></div>
+<div class="card"><span class="eyebrow">03</span><h3>Amplification</h3><p>Paid distribution for organic thought leadership, aimed at the few hundred people who matter.</p><span class="more">How it works &rarr;</span></div>
+</div>
+</body></html>

@@ -1,0 +1,85 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-09-26T12:12:11Z"
+ },
+ "title": "Sparkify",
+ "namespace": "Sparkify",
+ "libraries": [],
+ "sections": {},
+ "groups": [
+  "Logos"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "tile": "l",
+   "order": [
+    "logo-midnight.svg",
+    "logo-light.svg",
+    "monogram-midnight.svg",
+    "monogram-light.svg",
+    "spark.svg",
+    "monogram-midnight-square.png",
+    "monogram-light-square.png"
+   ],
+   "files": {
+    "logo-midnight.svg": {
+     "name": "logo-midnight.svg",
+     "blob": "e794d390e48bc08a86833e9259ff6a44",
+     "size": 3471,
+     "type": "image/svg+xml"
+    },
+    "logo-light.svg": {
+     "name": "logo-light.svg",
+     "blob": "a64b66673658c9811643ea3c7900f323",
+     "size": 3471,
+     "type": "image/svg+xml"
+    },
+    "monogram-midnight.svg": {
+     "name": "monogram-midnight.svg",
+     "blob": "7b3ceb545dda06808de2dc9db0678b7e",
+     "size": 1104,
+     "type": "image/svg+xml"
+    },
+    "monogram-light.svg": {
+     "name": "monogram-light.svg",
+     "blob": "3cf1c1790ffd010f1caf8f18dfb3c853",
+     "size": 1104,
+     "type": "image/svg+xml"
+    },
+    "spark.svg": {
+     "name": "spark.svg",
+     "blob": "fc85fe115c3851d3369b88f49e78d298",
+     "size": 331,
+     "type": "image/svg+xml"
+    },
+    "monogram-midnight-square.png": {
+     "name": "monogram-midnight-square.png",
+     "blob": "3962e241bba01647166fb4be84852805",
+     "size": 74361,
+     "type": "image/png"
+    },
+    "monogram-light-square.png": {
+     "name": "monogram-light-square.png",
+     "blob": "4bc16f3ef517a3229e39583bda8b5020",
+     "size": 80045,
+     "type": "image/png"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "CJ",
+  "via": "Claude",
+  "at": "2026-09-26T12:16:18Z",
+  "note": "Initial Sparkify system: Midnight refined tokens, brand book, logos, site, data and social components, cover."
+ }
+}

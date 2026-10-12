@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1167" viewBox="0 0 1440 1167">
+  <g>
+    <rect width="1440" height="1167" fill="#F7F6F2"/>
+    <g transform="translate(96, 96)">
+      <g>
+        <text x="0" y="13" font-family="Geist" font-size="13" font-weight="600" fill="#E5392F" letter-spacing="2">02 · COLOR</text>
+      </g>
+      <g transform="translate(0, 26)">
+        <text x="0" y="44" font-family="Geist" font-size="44" font-weight="500" fill="#1C2452" letter-spacing="-1.4">Midnight does the talking. Spark gets one word.</text>
+      </g>
+      <g transform="translate(0, 90)">
+        <text x="0" y="17" font-family="Geist" font-size="17" fill="#4A5378">Every swatch is a variable in the Sparkify / Color collection. Spark red is deliberately distinct from Gather orange (#EE4B22).</text>
+      </g>
+    </g>
+    <g transform="translate(96, 280)">
+      <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">CORE</text>
+    </g>
+    <g transform="translate(96, 340)">
+      <g>
+        <rect width="168" height="249" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#1C2452"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Midnight</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#1C2452</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Type, primary buttons, dark surfaces</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <rect width="168" height="232" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#3B4A8F"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Indigo</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#3B4A8F</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Eyebrows, secondary emphasis</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(360, 0)">
+        <rect width="168" height="232" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#4A5378"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Slate</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#4A5378</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Body copy, muted text</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(540, 0)">
+        <rect width="168" height="231" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#E8EBF5" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Haze</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#E8EBF5</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Tinted panels, placeholders</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(720, 0)">
+        <rect width="168" height="214" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#F7F6F2" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Paper</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#F7F6F2</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Page background</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(900, 0)">
+        <rect width="168" height="213" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#D9DDEA" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Line</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#D9DDEA</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Hairlines and borders</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(1080, 0)">
+        <rect width="168" height="232" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#E5392F"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Spark</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#E5392F</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">The spark, one accent per view</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 624)">
+      <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">NIGHT (DARK SECTIONS)</text>
+    </g>
+    <g transform="translate(96, 685)">
+      <g>
+        <rect width="168" height="214" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#151B3D"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Surface</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#151B3D</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Dark sections</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(180, 0)">
+        <rect width="168" height="214" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#1D2450"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Card</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#1D2450</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Cards on Night</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(360, 0)">
+        <rect width="168" height="213" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#2C3566"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Line</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#2C3566</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Hairlines on Night</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(540, 0)">
+        <rect width="168" height="214" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#EEF0F8"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Text</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#EEF0F8</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Type on Night</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(720, 0)">
+        <rect width="168" height="213" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <rect width="168" height="120" rx="16" ry="16" fill="#A9B0D0"/>
+        <g transform="translate(0, 120)">
+          <g transform="translate(16, 16)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="600" fill="#1C2452">Muted</text>
+          </g>
+          <g transform="translate(16, 38)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">#A9B0D0</text>
+          </g>
+          <g transform="translate(16, 58)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#4A5378">Muted type on Night</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 939)">
+      <g>
+        <rect width="616" height="132" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(28, 28)">
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">PROPORTION</text>
+        </g>
+        <g transform="translate(28, 51)">
+          <text x="0" y="16" font-family="Geist" font-size="16" fill="#4A5378">Roughly 70% Paper and white, 20% Midnight type and one filled button, under 10% Haze and hairlines. Spark stays under 2%.</text>
+        </g>
+      </g>
+      <g transform="translate(632, 0)">
+        <rect width="616" height="132" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(28, 28)">
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">CONTRAST</text>
+        </g>
+        <g transform="translate(28, 51)">
+          <text x="0" y="16" font-family="Geist" font-size="16" fill="#4A5378">Midnight (13.6:1), Indigo (7.6:1) and Slate (6.9:1) all pass AA on Paper. Spark is about 3.9:1, so it never carries body text.</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1419" viewBox="0 0 1440 1419">
+  <g>
+    <rect width="1440" height="1419" fill="#F7F6F2"/>
+    <g transform="translate(96, 96)">
+      <g>
+        <text x="0" y="13" font-family="Geist" font-size="13" font-weight="600" fill="#E5392F" letter-spacing="2">03 · TYPE</text>
+      </g>
+      <g transform="translate(0, 26)">
+        <text x="0" y="44" font-family="Geist" font-size="44" font-weight="500" fill="#1C2452" letter-spacing="-1.4">Two families. Manrope signs the name, Geist does the work.</text>
+      </g>
+    </g>
+    <g transform="translate(96, 228)">
+      <g>
+        <rect width="612" height="379" rx="20" ry="20" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(40, 40)">
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">WORDMARK ONLY</text>
+        </g>
+        <g transform="translate(40, 71)">
+          <text x="0" y="120" font-family="Manrope" font-size="120" font-weight="500" fill="#1C2452" letter-spacing="-4">Aa</text>
+        </g>
+        <g transform="translate(40, 231)">
+          <text x="0" y="18" font-family="Geist" font-size="18" font-weight="600" fill="#1C2452">Manrope 500</text>
+        </g>
+        <g transform="translate(40, 270)">
+          <text x="0" y="15" font-family="Geist" font-size="15" fill="#4A5378">Tracking -3.5%. Used for the logo and nowhere else. Never set headlines in it.</text>
+        </g>
+      </g>
+      <g transform="translate(636, 0)">
+        <rect width="612" height="359" rx="20" ry="20" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(40, 40)">
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">EVERYTHING ELSE</text>
+        </g>
+        <g transform="translate(40, 71)">
+          <text x="0" y="120" font-family="Geist" font-size="120" font-weight="500" fill="#1C2452" letter-spacing="-4">Aa</text>
+        </g>
+        <g transform="translate(40, 231)">
+          <text x="0" y="18" font-family="Geist" font-size="18" font-weight="600" fill="#1C2452">Geist 400 · 500 · 600</text>
+        </g>
+        <g transform="translate(40, 270)">
+          <text x="0" y="15" font-family="Geist" font-size="15" fill="#4A5378">Headlines, body, labels and UI. Geist Mono for code and hex values.</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 655)">
+      <rect width="1248" height="668" rx="20" ry="20" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+      <g transform="translate(40, 40)">
+        <g transform="translate(0, 73)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Display XL · 72/72 · -4%</text>
+        </g>
+        <g transform="translate(212, 0)">
+          <text x="0" y="72" font-family="Geist" font-size="72" font-weight="500" fill="#1C2452" letter-spacing="-2.9">Marketing that respects people.</text>
+        </g>
+      </g>
+      <g transform="translate(40, 158)">
+        <g transform="translate(0, 74)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Display · 56/58 · -3.5%</text>
+        </g>
+        <g transform="translate(212, 20)">
+          <text x="0" y="56" font-family="Geist" font-size="56" font-weight="500" fill="#1C2452" letter-spacing="-2">Start with the people.</text>
+        </g>
+      </g>
+      <g transform="translate(40, 271)">
+        <g transform="translate(0, 53)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Heading · 40/44 · -3%</text>
+        </g>
+        <g transform="translate(212, 20)">
+          <text x="0" y="40" font-family="Geist" font-size="40" font-weight="500" fill="#1C2452" letter-spacing="-1.2">Three ways I work with leaders.</text>
+        </g>
+      </g>
+      <g transform="translate(40, 363)">
+        <g transform="translate(0, 32)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Title · 22/28 · -1.5%</text>
+        </g>
+        <g transform="translate(212, 20)">
+          <text x="0" y="22" font-family="Geist" font-size="22" font-weight="500" fill="#1C2452" letter-spacing="-0.3">Human-centered AI enablement</text>
+        </g>
+      </g>
+      <g transform="translate(40, 432)">
+        <g transform="translate(0, 20)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Body · 18/27</text>
+        </g>
+        <g transform="translate(212, 20)">
+          <text x="0" y="18" font-family="Geist" font-size="18" fill="#4A5378">Practices, training and tools that help teams adopt AI while keeping their craft and their judgment.</text>
+        </g>
+      </g>
+      <g transform="translate(40, 527)">
+        <g transform="translate(0, 20)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Small · 15/23</text>
+        </g>
+        <g transform="translate(212, 20)">
+          <text x="0" y="15" font-family="Geist" font-size="15" fill="#4A5378">Captions, card descriptions and footer text.</text>
+        </g>
+      </g>
+      <g transform="translate(40, 591)">
+        <g transform="translate(0, 20)">
+          <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">Label · 12 · 600 · +16%</text>
+        </g>
+        <g transform="translate(212, 20.5)">
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">SELECTED WORK, WITH GATHER</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

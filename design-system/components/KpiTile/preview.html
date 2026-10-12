@@ -1,0 +1,27 @@
+<!-- @dsCard group="Data" height=170 -->
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>KpiTile</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+html,body{margin:0}
+body{background:var(--surface);color:var(--ink);font-family:var(--font-sans);-webkit-font-smoothing:antialiased;padding:var(--space-6)}
+*{box-sizing:border-box}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+
+.row{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--space-4)}
+.tile{background:var(--surface-raised);border-radius:var(--radius-lg);box-shadow:var(--hairline);padding:var(--space-6)}
+.num{font:500 40px/1 var(--font-sans);letter-spacing:-.03em;font-variant-numeric:tabular-nums;margin:var(--space-3) 0 var(--space-2)}
+.delta{font-size:13px;color:var(--ink-muted)}
+.delta b{color:var(--ink);font-weight:600}
+svg.sl{display:block;margin-top:var(--space-3)}
+.sl path{fill:none;stroke:var(--viz-2);stroke-width:2}
+.sl circle{fill:var(--spark)}
+
+</style></head><body>
+<div class="row">
+<div class="tile"><span class="eyebrow">Impressions</span><div class="num">[000.0K]</div><div class="delta"><b>+[00]%</b> vs. prior 30 days</div><svg class="sl" width="100%" height="36" viewBox="0 0 200 36" preserveAspectRatio="none"><path d="M0 30 L25 26 L50 28 L75 20 L100 22 L125 14 L150 16 L175 9 L196 6"/><circle cx="196" cy="6" r="3.5"/></svg></div>
+<div class="tile"><span class="eyebrow">Engagement rate</span><div class="num">[0.0]%</div><div class="delta"><b>+[0.0] pts</b> vs. benchmark</div><svg class="sl" width="100%" height="36" viewBox="0 0 200 36" preserveAspectRatio="none"><path d="M0 22 L25 24 L50 18 L75 20 L100 15 L125 17 L150 12 L175 13 L196 10"/><circle cx="196" cy="10" r="3.5"/></svg></div>
+<div class="tile"><span class="eyebrow">Followers gained</span><div class="num">[0,000]</div><div class="delta"><b>+[00]%</b> vs. prior 30 days</div><svg class="sl" width="100%" height="36" viewBox="0 0 200 36" preserveAspectRatio="none"><path d="M0 28 L25 27 L50 25 L75 24 L100 20 L125 18 L150 17 L175 12 L196 8"/><circle cx="196" cy="8" r="3.5"/></svg></div>
+</div>
+</body></html>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1467" viewBox="0 0 1440 1467">
+  <g>
+    <rect width="1440" height="1467" fill="#F7F6F2"/>
+    <g transform="translate(96, 96)">
+      <g>
+        <text x="0" y="13" font-family="Geist" font-size="13" font-weight="600" fill="#E5392F" letter-spacing="2">04 · COMPONENTS</text>
+      </g>
+      <g transform="translate(0, 26)">
+        <text x="0" y="44" font-family="Geist" font-size="44" font-weight="500" fill="#1C2452" letter-spacing="-1.4">The kit every page is built from.</text>
+      </g>
+    </g>
+    <g transform="translate(96, 216)">
+      <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">NAVIGATION</text>
+    </g>
+    <g transform="translate(96, 276)">
+      <g>
+        <rect width="1248" height="76" rx="16" ry="16" fill="#F7F6F2" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(32, 21.5)">
+          <g transform="translate(0, 6.5)">
+            <path d="M7.41 0.34L10.22 8.31L13.3 4.28L11.35 8.97L19.66 7.41L11.69 10.22L15.72 13.3L11.03 11.35L12.59 19.66L9.78 11.69L6.7 15.72L8.65 11.03L0.34 12.59L8.31 9.78L4.28 6.7L8.97 8.65L7.41 0.34Z" fill="#E5392F"/>
+          </g>
+          <g transform="translate(22, 0)">
+            <text x="0" y="24" font-family="Manrope" font-size="24" font-weight="500" fill="#1C2452" letter-spacing="-0.8">sparkify</text>
+          </g>
+        </g>
+        <g transform="translate(666, 18)">
+          <g transform="translate(0, 11.5)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#1C2452">Work</text>
+          </g>
+          <g transform="translate(68, 11.5)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">Advisory</text>
+          </g>
+          <g transform="translate(159, 11.5)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">Built</text>
+          </g>
+          <g transform="translate(221, 11.5)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">Thinking</text>
+          </g>
+          <g transform="translate(310, 11.5)">
+            <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">About</text>
+          </g>
+          <g transform="translate(382, 0)">
+            <rect width="168" height="40" rx="10" ry="10" fill="#1C2452"/>
+            <g transform="translate(18, 11.5)">
+              <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#F7F6F2">Start a conversation</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 392)">
+      <g>
+        <g>
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">BUTTONS</text>
+        </g>
+        <g transform="translate(0, 32)">
+          <g>
+            <rect width="189" height="48" rx="12" ry="12" fill="#1C2452"/>
+            <g transform="translate(24, 15)">
+              <text x="0" y="15" font-family="Geist" font-size="15" font-weight="500" fill="#F7F6F2">Start a conversation</text>
+            </g>
+          </g>
+          <g transform="translate(205, 0)">
+            <g>
+              <rect width="140" height="48" rx="12" ry="12" fill="none" stroke="#1C2452" stroke-width="1"/>
+              <g transform="translate(24, 15)">
+                <text x="0" y="15" font-family="Geist" font-size="15" font-weight="500" fill="#1C2452">See the work</text>
+              </g>
+            </g>
+          </g>
+          <g transform="translate(361, 0)">
+            <g>
+              <g transform="translate(0, 15)">
+                <text x="0" y="15" font-family="Geist" font-size="15" font-weight="500" fill="#1C2452">All advisory</text>
+              </g>
+              <g transform="translate(92, 18)">
+                <path d="M4.45 0.2L6.13 4.99L7.98 2.57L6.81 5.38L11.8 4.45L7.01 6.13L9.43 7.98L6.62 6.81L7.55 11.8L5.87 7.01L4.02 9.43L5.19 6.62L0.2 7.55L4.99 5.87L2.57 4.02L5.38 5.19L4.45 0.2Z" fill="#E5392F"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(529, 0)">
+        <g>
+          <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">FILTER CHIPS</text>
+        </g>
+        <g transform="translate(0, 32)">
+          <g>
+            <rect width="50" height="36" rx="999" ry="999" fill="#1C2452"/>
+            <g transform="translate(16, 9.5)">
+              <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#F7F6F2">All</text>
+            </g>
+          </g>
+          <g transform="translate(58, 0)">
+            <g>
+              <rect width="127" height="36" rx="999" ry="999" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+              <g transform="translate(16, 9.5)">
+                <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">AI enablement</text>
+              </g>
+            </g>
+          </g>
+          <g transform="translate(193, 0)">
+            <g>
+              <rect width="97" height="36" rx="999" ry="999" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+              <g transform="translate(16, 9.5)">
+                <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">Eminence</text>
+              </g>
+            </g>
+          </g>
+          <g transform="translate(298, 0)">
+            <g>
+              <rect width="119" height="36" rx="999" ry="999" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+              <g transform="translate(16, 9.5)">
+                <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#4A5378">Amplification</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 506)">
+      <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">CARDS</text>
+    </g>
+    <g transform="translate(96, 568)">
+      <g>
+        <rect width="400" height="234" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+        <g transform="translate(28, 28)">
+          <path d="M7.41 0.34L10.22 8.31L13.3 4.28L11.35 8.97L19.66 7.41L11.69 10.22L15.72 13.3L11.03 11.35L12.59 19.66L9.78 11.69L6.7 15.72L8.65 11.03L0.34 12.59L8.31 9.78L4.28 6.7L8.97 8.65L7.41 0.34Z" fill="#E5392F"/>
+        </g>
+        <g transform="translate(28, 62)">
+          <text x="0" y="21" font-family="Geist" font-size="21" font-weight="500" fill="#1C2452" letter-spacing="-0.3">Human-centered AI enablement</text>
+        </g>
+        <g transform="translate(28, 103)">
+          <text x="0" y="15" font-family="Geist" font-size="15" fill="#4A5378">Practices, training and tools that help teams adopt AI while keeping their craft and their judgment.</text>
+        </g>
+        <g transform="translate(28, 188)">
+          <text x="0" y="14" font-family="Geist" font-size="14" font-weight="500" fill="#1C2452">Learn more</text>
+        </g>
+      </g>
+      <g transform="translate(424, 0)">
+        <g>
+          <rect width="400" height="163" rx="16" ry="16" fill="#FFFFFF" stroke="#D9DDEA" stroke-width="1"/>
+          <g transform="translate(24, 24)">
+            <text x="0" y="13" font-family="Geist Mono" font-size="13" fill="#4A5378">CR8-OS / voxalign</text>
+          </g>
+          <g transform="translate(24, 52)">
+            <text x="0" y="20" font-family="Geist" font-size="20" font-weight="500" fill="#1C2452" letter-spacing="-0.3">VoxAlign</text>
+          </g>
+          <g transform="translate(24, 89)">
+            <text x="0" y="15" font-family="Geist" font-size="15" fill="#4A5378">Open-source voice attribution for SRT captions, so every line is credited to the right speaker.</text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(848, 0)">
+        <g>
+          <rect width="400" height="2" fill="#1C2452"/>
+          <g transform="translate(0, 14)"/>
+          <g transform="translate(0, 32)">
+            <text x="0" y="13" font-family="Geist" font-size="13" font-weight="600" fill="#E5392F">01</text>
+          </g>
+          <g transform="translate(0, 60)">
+            <text x="0" y="24" font-family="Geist" font-size="24" font-weight="500" fill="#1C2452" letter-spacing="-0.5">Start with the people.</text>
+          </g>
+          <g transform="translate(0, 102)">
+            <text x="0" y="16" font-family="Geist" font-size="16" fill="#4A5378">AI enablement works when it is designed around the craft people already have.</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 835)">
+      <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">WORK ROW</text>
+    </g>
+    <g transform="translate(96, 898)">
+      <g>
+        <rect width="1248" height="1" fill="#D9DDEA"/>
+        <g transform="translate(0, 1)">
+          <g transform="translate(0, 22.5)">
+            <text x="0" y="18" font-family="Geist" font-size="18" font-weight="500" fill="#1C2452">Riot Games</text>
+          </g>
+          <g transform="translate(244, 23.5)">
+            <text x="0" y="16" font-family="Geist" font-size="16" fill="#4A5378">AI x Social craft training for the global social team</text>
+          </g>
+          <g transform="translate(828, 26)">
+            <text x="0" y="13" font-family="Geist" font-size="13" fill="#3B4A8F">AI enablement</text>
+          </g>
+          <g transform="translate(1092, 22)">
+            <rect width="78" height="24" rx="999" ry="999" fill="none" stroke="#D9DDEA" stroke-width="1"/>
+            <g transform="translate(10, 4.5)">
+              <text x="0" y="12" font-family="Geist" font-size="12" fill="#4A5378">via Gather</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(96, 999)">
+      <text x="0" y="12" font-family="Geist" font-size="12" font-weight="600" fill="#3B4A8F" letter-spacing="2">CALL TO ACTION</text>
+    </g>
+    <g transform="translate(96, 1063)">
+      <g>
+        <rect width="1248" height="308" rx="20" ry="20" fill="#151B3D"/>
+        <g transform="translate(56, 56)">
+          <path d="M10.38 0.48L14.31 11.64L18.62 6L15.89 12.55L27.52 10.38L16.36 14.31L22 18.62L15.45 15.89L17.62 27.52L13.69 16.36L9.38 22L12.11 15.45L0.48 17.62L11.64 13.69L6 9.38L12.55 12.11L10.38 0.48Z" fill="#E5392F"/>
+          <g transform="translate(0, 42)">
+            <text x="0" y="38" font-family="Geist" font-size="38" font-weight="500" fill="#EEF0F8" letter-spacing="-1.1">Have something worth saying? Let’s make sure the right people hear it.</text>
+          </g>
+          <g transform="translate(0, 142)">
+            <text x="0" y="17" font-family="Geist" font-size="17" fill="#A9B0D0">Advisory, sprints and builds for leaders who want AI and amplification done with care.</text>
+          </g>
+        </g>
+        <g transform="translate(1003, 204)">
+          <rect width="189" height="48" rx="12" ry="12" fill="#F7F6F2"/>
+          <g transform="translate(24, 15)">
+            <text x="0" y="15" font-family="Geist" font-size="15" font-weight="500" fill="#1C2452">Start a conversation</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

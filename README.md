@@ -17,10 +17,13 @@ Direction: **Midnight, refined.** Sans-serif throughout, one ink, one quiet indi
 
 ## How it stays in sync
 
-1. **Change it here** and commit.
+The local repo at `C:\Users\cjamm\repos\design-systems\sparkify-brand` is the staging area. Nothing reaches GitHub or claude.ai until it has been reviewed there.
+
+1. **Change it locally** and commit. Claude commits here and stops; it never pushes without CJ's OK.
 2. **Rebuild tokens** if `tokens.json` changed: `python scripts/build_tokens.py`.
-3. **Republish to Claude.** Ask Claude to "republish the Sparkify design system from `cjammet/sparkify-brand`". It sends only the changed files under `design-system/` to the design system on claude.ai, so every deck, design and page Claude builds with Sparkify reads what's in this repo. `design-system.json` is that system's index (asset ids for the uploaded logos); leave its keys alone unless logos change.
-4. **Mirror to Drive** with `scripts/mirror-to-drive.ps1`, which copies everything except `.git` to `G:\My Drive\CJ Work\Sparkify Corp\Brand`.
+3. **Review**, then push to GitHub (`git push`).
+4. **Republish to Claude.** Ask Claude to "republish the Sparkify design system from `cjammet/sparkify-brand`". It sends only the changed files under `design-system/` to the design system on claude.ai, so every deck, design and page Claude builds with Sparkify reads what's in this repo. `design-system.json` is that system's index (asset ids for the uploaded logos); leave its keys alone unless logos change.
+5. **Back up to Drive** with `scripts/mirror-to-drive.ps1`: a full mirror (without `.git`) to `G:\My Drive\CJ Work\Sparkify Corp\Brand`, plus a full-history git bundle in `Sparkify Corp\_bundles`. The Brand folder is a mirror; edit in the repo, never on Drive.
 
 ## Rules that never change
 
